@@ -11,4 +11,5 @@
 - Lab 8 - Statistical Inference (pt. 2)
 - Lab 9 - Statistical Inference (pt. 3)
 - Lab 10 - Bootstrapping
-- Lab 11 - Linear Regression
+- Lab 11 - Linear Regression (pt. 1)
+- Lab 12 - Linear Regression (pt. 2)
